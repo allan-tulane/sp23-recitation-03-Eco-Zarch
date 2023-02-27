@@ -1,7 +1,7 @@
 # CMPS 2200  Recitation 03
 
-**Name (Team Member 1):**_________________________  
-**Name (Team Member 2):**_________________________
+**Name (Team Member 1):**___Zachary Wiel_____  
+**Name (Team Member 2):**____Shira Rozenthal_______
 
 This recitation includes part of assignment 02. 
 
